@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>المدونة</title>
+<link>https://ciyoku.github.io/blog/</link>
+<atom:link href="https://ciyoku.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>مدونة مبنية باستخدام Quarto</description>
+<generator>quarto-1.9.31</generator>
+<lastBuildDate>Wed, 18 Mar 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>تدوينة مع شيفرة</title>
+  <dc:creator>هارلو مالوك</dc:creator>
+  <link>https://ciyoku.github.io/blog/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>هذه تدوينة تحتوي على شفرة قابلة للتنفيذ.</p>
+
+
+
+ ]]></description>
+  <category>أخبار</category>
+  <category>شفرة</category>
+  <category>تحليل</category>
+  <guid>https://ciyoku.github.io/blog/posts/post-with-code/</guid>
+  <pubDate>Wed, 18 Mar 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://ciyoku.github.io/blog/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>مرحباً بكم في مدونتي</title>
+  <dc:creator>تريستان أومالي</dc:creator>
+  <link>https://ciyoku.github.io/blog/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>هذه أول تدوينة في مدونة Quarto. أهلاً وسهلاً!</p>
+<p><img src="https://ciyoku.github.io/blog/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>وبما أن هذه التدوينة لا تحدد <code>image</code> صراحةً، فسيُستخدم أول صورة في التدوينة ضمن صفحة قائمة التدوينات.</p>
+
+
+
+ ]]></description>
+  <category>أخبار</category>
+  <guid>https://ciyoku.github.io/blog/posts/welcome/</guid>
+  <pubDate>Sun, 15 Mar 2026 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
