@@ -1,0 +1,19 @@
+---
+title: "نبذة"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: bluesky
+      text: بلوسكاي
+      href: https://bsky.app/
+    - icon: linkedin
+      text: لينكدإن
+      href: https://linkedin.com
+    - icon: github
+      text: غيت هب
+      href: https://github.com
+
+---
+
+نبذة عن هذه المدونة
