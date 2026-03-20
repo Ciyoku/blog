@@ -6,7 +6,7 @@ dir: rtl
 
 website:
   description: "مدونة مبنية باستخدام Quarto"
-  site-url: https://ciyoku.github.io/blog 
+  site-url: https://ciyoku.github.io/blog/ 
   title: "المدونة"
   navbar:
     right:
